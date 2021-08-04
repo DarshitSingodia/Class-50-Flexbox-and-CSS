@@ -1,0 +1,29 @@
+h1 {
+    color:rgb(26, 16, 1);
+    
+}
+
+* {
+    background-color:rgba(110, 241, 22, 0.13);
+}
+
+.header {
+    background-color: rgb(218, 94, 94);
+    display:flex;
+    justify-content: space-between;
+}
+
+.games {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display:flex;
+    justify-content: flex-end;
+}
+
+p {
+    text-align:center;
+}
